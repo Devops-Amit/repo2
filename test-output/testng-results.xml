@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WebDriver" duration-ms="10807" started-at="2018-12-22T04:37:50Z" finished-at="2018-12-22T04:38:01Z">
+    <groups>
+    </groups>
+    <test name="Tests" duration-ms="10807" started-at="2018-12-22T04:37:50Z" finished-at="2018-12-22T04:38:01Z">
+      <class name="TestNG.addressbook">
+        <test-method status="PASS" signature="launch()[pri:0, instance:TestNG.addressbook@3ffc5af1]" name="launch" is-config="true" duration-ms="6684" started-at="2018-12-22T04:37:51Z" finished-at="2018-12-22T04:37:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="addressbook()[pri:0, instance:TestNG.addressbook@3ffc5af1]" name="addressbook" duration-ms="1785" started-at="2018-12-22T04:37:57Z" finished-at="2018-12-22T04:37:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addressbook -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestNG.addressbook@3ffc5af1]" name="close" is-config="true" duration-ms="2315" started-at="2018-12-22T04:37:59Z" finished-at="2018-12-22T04:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestNG.addressbook -->
+    </test> <!-- Tests -->
+  </suite> <!-- WebDriver -->
+</testng-results>
